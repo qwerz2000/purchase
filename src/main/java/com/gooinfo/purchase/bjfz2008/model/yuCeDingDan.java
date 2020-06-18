@@ -11,5 +11,4 @@ public class yuCeDingDan {
     private String variety;//品种（布编）
     private String yuCeQuanity;//预测数量
     private String varietyId;//布编ID
-    private String sasas;
 }
